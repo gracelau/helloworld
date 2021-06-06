@@ -7,3 +7,4 @@
 <p>I love meeting new people and seeing what they are looking for and where they want to go.</p>
   
 <p>Please don't hesitate to get in touch with me by <a href="mailto:grace.lau@sisystems.com">by sending me an email</a> </p>
+  <p> or connecting with me on <a href="http://www.linkedin.com/in/gracekylau"> LinkedIn </a>
